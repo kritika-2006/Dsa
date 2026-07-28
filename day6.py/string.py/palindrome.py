@@ -5,7 +5,9 @@ def is_palindrome(s):
     while left < right:
         if s[left] != s[right]:
             return False
-        elif s[left] == s[right]:
+        
+        # s[left] == s[right]:
+        else:
             left = left + 1
             right = right - 1
     return True
