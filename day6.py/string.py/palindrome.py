@@ -1,4 +1,6 @@
 def is_palindrome(s):
+   # Clean the string (spaces/symbols remove + lowercase)
+    s = [ch.lower() for ch in s if ch.isalnum()]
     left = 0
     right = len(s) - 1
 
