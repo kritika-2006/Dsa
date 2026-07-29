@@ -8,3 +8,4 @@ def move_zeros(nums):
 nums = [0, 1, 0, 3, 12]
 move_zeros(nums)
 print("updated array:",nums)
+
