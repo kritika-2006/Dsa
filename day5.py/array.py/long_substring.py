@@ -2,7 +2,7 @@ def lengthOfLongestSubstring(s):
     seen = set()
     left = 0
     max_len = 0
-
+    
     for right in range(len(s)):
         #Agar right wala character pehle se set me hai, left se hatao
         while s[right] in seen:
