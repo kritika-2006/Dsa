@@ -11,7 +11,7 @@ def range_sum(prefix, L , R):
     if L == 0:
         return prefix[R]
     else:
-        return prefix[R] - prefix[L - 1]
+        return prefix[R] - prefix[L - 1] 
 
 nums =[2,4,1,3,5]
 prefix = make_prefix_sum(nums)
