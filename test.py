@@ -6,7 +6,7 @@ def sorted(nums,target):
     while left < right :
         current_sum = nums[left] + nums[right]
         if current_sum == target:
-            return [left + 1, right + 1]
+            return [left + 1, right + 1] 
         elif current_sum > target:
             right -= 1
         else:
