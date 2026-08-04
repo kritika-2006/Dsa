@@ -5,3 +5,4 @@ def get_sum(n):
     # recursive relation
     return n + get_sum(n - 1)
 print(get_sum(4))
+ 
