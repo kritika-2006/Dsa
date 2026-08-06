@@ -11,7 +11,7 @@ def sorted(nums,target):
             right -= 1
         else:
             left += 1
-    return current_sum
+    return current_sum 
 nums = [2,3,4]
 target = 6
 print("sum of the indexes:", sorted(nums,target))
