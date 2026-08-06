@@ -1,4 +1,4 @@
- def count_digits(n):
+def count_digits(n):
     count = 0
     while n > 0:
         n  =  n // 10
