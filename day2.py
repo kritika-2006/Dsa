@@ -6,3 +6,4 @@ def reverse_number(n):
         n = n // 10
     return rev
 print(reverse_number(456))
+     
