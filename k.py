@@ -11,7 +11,7 @@ def sum(nums,target):
             left += 1
         elif current_sum > target:
             right -= 1
-    
+     
 nums = [2, 7, 11, 15]
 target  = 17
 print("sum :",sum(nums,target))
