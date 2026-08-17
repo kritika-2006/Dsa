@@ -1,18 +1,18 @@
-def two_sum_sorted(arr,target):
+def two_sum(nums,target):
     left = 0
-    right = len(arr) - 1
+    right = len(nums) - 1
+    current_sum = 0
 
     while left < right:
-        current_sum = arr[left] + arr[right]
+        current_sum = nums[left] + nums[right]
 
         if current_sum == target:
-            return [left,right]
-        
+            return[left,right]
         elif current_sum < target:
-            left = left + 1
-        
-        else:
-            right = right - 1
-
-my_list = [2,7,11,15]
-print(two_sum_sorted(my_list,9))
+            left += 1
+        elif current_sum > target:
+            right -= 1
+    
+nums = [2,7,11,15]
+target = 13
+print("sum of index:",two_sum(nums,target))
