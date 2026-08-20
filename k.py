@@ -4,7 +4,7 @@ def sum(nums,target):
     current_sum = 0
 
     while left < right:
-        current_sum = nums[left] + nums[right]
+        current_sum = nums[left] + nums[right]  
         if current_sum == target:
             return   [left+ 1,right + 1]
         elif current_sum < target:
