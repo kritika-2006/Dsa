@@ -7,7 +7,7 @@ def sum(nums,target):
         current_sum = nums[left] + nums[right]  
         if current_sum == target:
             return   [left+ 1,right + 1]
-        elif current_sum < target:
+        elif current_sum < target: 
             left += 1
         elif current_sum > target:
             right -= 1
