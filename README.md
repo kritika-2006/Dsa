@@ -15,6 +15,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kritika-2006/Dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
@@ -33,4 +34,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
