@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritika-2006/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kritika-2006/Dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -45,5 +47,22 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
