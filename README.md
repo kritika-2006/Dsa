@@ -1,5 +1,4 @@
-# DSA-in-Python   
- 
+# DSA-in-Python    
   
 <!---LeetCode Topics Start-->
 # LeetCode Topics
