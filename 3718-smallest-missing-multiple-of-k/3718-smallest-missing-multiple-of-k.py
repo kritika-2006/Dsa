@@ -3,7 +3,7 @@ class Solution:
         
         num_set = set(nums)
         multiple = k
-        
+         
         while multiple in num_set: 
             multiple += k
             
