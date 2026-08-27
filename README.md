@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kritika-2006/Dsa/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/kritika-2006/Dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritika-2006/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -49,6 +50,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kritika-2006/Dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [1927-sum-game](https://github.com/kritika-2006/Dsa/tree/main/1927-sum-game/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritika-2006/Dsa/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
@@ -84,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritika-2006/Dsa/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/kritika-2006/Dsa/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
