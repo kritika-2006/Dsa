@@ -2,7 +2,7 @@
   
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Array 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kritika-2006/Dsa/tree/main/0001-two-sum/) | Easy |
