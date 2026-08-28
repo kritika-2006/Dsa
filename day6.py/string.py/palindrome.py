@@ -10,7 +10,7 @@ def is_palindrome(s):
         
         # s[left] == s[right]:
         else:
-            left = left + 1 
+            left = left + 1    
             right = right - 1
     return True
 
