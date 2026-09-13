@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kritika-2006/Dsa/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/kritika-2006/Dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0835-image-overlap](https://github.com/kritika-2006/Dsa/tree/main/0835-image-overlap/) | Medium |
 | [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kritika-2006/Dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritika-2006/Dsa/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -141,6 +142,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/kritika-2006/Dsa/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritika-2006/Dsa/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
