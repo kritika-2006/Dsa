@@ -67,4 +67,4 @@ class Solution:
             res_node = tree.query(0, 0, n - 1, start, n - 1)
             ans.append(res_node.remain[x])
             
-        return ans
+        return ans             
