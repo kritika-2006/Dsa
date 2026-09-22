@@ -11,7 +11,7 @@ class Solution:
         ends = [x[1] for x in arr]
         
         prev_idx = []
-        for i in range(n):
+        for i in range(n):     
             l = arr[i][0]
             idx = bisect.bisect_left(ends, l)
             prev_idx.append(idx - 1)
