@@ -11,7 +11,7 @@ def binary_search(arr, target):
             low = mid + 1
         else:
             high = mid - 1   
-    
+                           
     return -1
 
 my_list = [10,20,30,40,50,60,70] 
