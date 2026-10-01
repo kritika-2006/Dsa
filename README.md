@@ -80,6 +80,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/kritika-2006/Dsa/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/kritika-2006/Dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/kritika-2006/Dsa/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -218,12 +219,14 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/kritika-2006/Dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kritika-2006/Dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika-2006/Dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kritika-2006/Dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika-2006/Dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
