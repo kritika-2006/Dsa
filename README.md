@@ -84,6 +84,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kritika-2006/Dsa/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/kritika-2006/Dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/kritika-2006/Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritika-2006/Dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -184,6 +185,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/kritika-2006/Dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritika-2006/Dsa/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
@@ -223,6 +225,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/kritika-2006/Dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
