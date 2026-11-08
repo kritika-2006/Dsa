@@ -11,6 +11,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritika-2006/Dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/kritika-2006/Dsa/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/kritika-2006/Dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kritika-2006/Dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kritika-2006/Dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritika-2006/Dsa/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kritika-2006/Dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -215,6 +216,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kritika-2006/Dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritika-2006/Dsa/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/kritika-2006/Dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kritika-2006/Dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kritika-2006/Dsa/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritika-2006/Dsa/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kritika-2006/Dsa/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -264,6 +267,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/kritika-2006/Dsa/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/kritika-2006/Dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/kritika-2006/Dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kritika-2006/Dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritika-2006/Dsa/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kritika-2006/Dsa/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
@@ -271,6 +275,7 @@
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/kritika-2006/Dsa/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/kritika-2006/Dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kritika-2006/Dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritika-2006/Dsa/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kritika-2006/Dsa/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/kritika-2006/Dsa/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -285,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/kritika-2006/Dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kritika-2006/Dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kritika-2006/Dsa/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kritika-2006/Dsa/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kritika-2006/Dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
