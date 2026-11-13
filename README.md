@@ -31,6 +31,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kritika-2006/Dsa/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kritika-2006/Dsa/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritika-2006/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kritika-2006/Dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kritika-2006/Dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -218,6 +219,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kritika-2006/Dsa/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/kritika-2006/Dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritika-2006/Dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kritika-2006/Dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -324,6 +326,7 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kritika-2006/Dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kritika-2006/Dsa/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/kritika-2006/Dsa/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kritika-2006/Dsa/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Backtracking
@@ -344,6 +347,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kritika-2006/Dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kritika-2006/Dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika-2006/Dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,4 +403,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kritika-2006/Dsa/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kritika-2006/Dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
