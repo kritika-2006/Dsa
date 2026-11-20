@@ -30,6 +30,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kritika-2006/Dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kritika-2006/Dsa/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritika-2006/Dsa/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kritika-2006/Dsa/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kritika-2006/Dsa/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kritika-2006/Dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kritika-2006/Dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -200,6 +201,7 @@
 | [1872-stone-game-viii](https://github.com/kritika-2006/Dsa/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kritika-2006/Dsa/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kritika-2006/Dsa/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kritika-2006/Dsa/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kritika-2006/Dsa/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kritika-2006/Dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/kritika-2006/Dsa/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -276,6 +278,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kritika-2006/Dsa/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/kritika-2006/Dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritika-2006/Dsa/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kritika-2006/Dsa/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kritika-2006/Dsa/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kritika-2006/Dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kritika-2006/Dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
