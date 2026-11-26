@@ -1,0 +1,14 @@
+class Solution:
+    def canAliceWin(self, n: int) -> bool:
+        stones_to_remove = 10
+        alice_turn = True
+        
+        while stones_to_remove > 0 and n >= stones_to_remove:
+            n -= stones_to_remove
+            stones_to_remove -= 1
+            alice_turn = not alice_turn
+            
+        return not alice_turn
+
+    # Alias for platform method name compatibility
+    solve = canAliceWin
